@@ -1,0 +1,356 @@
+[
+  {
+    "text": "Pythonは初心者向けに非常に人気があり、読みやすく、シンプルな文法が特徴です。データ分析、機械学習、ウェブ開発など、さまざまな分野で使用されています。",
+    "id": 60,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Python",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2025-01-25T11:12:42.885436Z",
+    "updated_at": "2025-01-25T11:12:42.885489Z",
+    "lead_time": 42.963
+  },
+  {
+    "text": "JavaScriptはウェブ開発で最もよく使われる言語です。フロントエンド（ブラウザ側）やバックエンド（サーバー側）の開発に広く活用され、ReactやNode.jsなどのライブラリやフレームワークがあります。",
+    "id": 61,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "JavaScript",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 74,
+        "text": "React",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "text": "Node.js",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2025-01-25T11:13:04.526282Z",
+    "updated_at": "2025-01-25T11:13:04.526305Z",
+    "lead_time": 14.688
+  },
+  {
+    "text": "Javaはエンタープライズシステムやモバイルアプリ（特にAndroidアプリ）開発でよく使われます。オブジェクト指向が強調されており、スケーラビリティに優れたアプリケーションを作成するのに適しています。",
+    "id": 62,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2025-01-25T11:13:42.132766Z",
+    "updated_at": "2025-01-25T11:13:42.132787Z",
+    "lead_time": 4.92
+  },
+  {
+    "text": "C++は高性能なソフトウェア、ゲーム開発、システムプログラミングに使われます。メモリ管理を手動で行うため、より詳細なコントロールが可能です。",
+    "id": 63,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "C++",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2025-01-25T11:14:01.180050Z",
+    "updated_at": "2025-01-25T11:14:01.180084Z",
+    "lead_time": 15.308
+  },
+  {
+    "text": "Rubyは特にウェブ開発の分野で人気があり、Ruby on Railsというフレームワークが有名です。シンプルで読みやすい文法が特徴です。",
+    "id": 64,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Ruby",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 35,
+        "text": "Ruby on Rails",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2025-01-25T11:14:23.385190Z",
+    "updated_at": "2025-01-25T11:14:23.385212Z",
+    "lead_time": 9.332
+  },
+  {
+    "text": "C#は主にWindowsアプリケーションやゲーム開発（Unityエンジンで使用）に使われる言語です。Microsoftの.NETフレームワークを使った開発にもよく使用されます。",
+    "id": 65,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "C#",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 71,
+        "text": ".NETフレームワーク",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2025-01-25T11:14:56.102088Z",
+    "updated_at": "2025-01-25T11:14:56.102109Z",
+    "lead_time": 10.391
+  },
+  {
+    "text": "PHPは主にウェブ開発に使用され、特にサーバーサイドで使われます。WordPressなどのCMSがPHPで書かれており、動的なウェブサイトの開発に役立ちます。",
+    "id": 66,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "PHP",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "PHP",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2025-01-25T11:15:28.066597Z",
+    "updated_at": "2025-01-25T11:15:28.066623Z",
+    "lead_time": 8.925
+  },
+  {
+    "text": "MySQLの特徴は世界で最も広く使用されているオープンソースのRDBMSです。特にウェブアプリケーションとともに使われることが多いです。速度が速く、軽量であるため、個人から大規模企業まで幅広く利用されています。用途はウェブアプリケーション、コンテンツ管理システム（WordPress、Drupalなど）、小規模から中規模のプロジェクト。オラクルによって買収され、商用版もありますが、オープンソース版は無料で使用可能です。",
+    "id": 68,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2025-01-25T11:15:50.793999Z",
+    "updated_at": "2025-01-25T11:15:50.794022Z",
+    "lead_time": 9.876
+  },
+  {
+    "text": "PostgreSQLの特徴は高機能で拡張性に優れたオープンソースのRDBMSです。データの整合性やトランザクション管理（ACID）に強く、複雑なクエリや大規模なデータベースに適しています。用途は高度な分析が求められるアプリケーション、大規模なデータベース、地理空間情報を扱うGIS（地理情報システム）。高い標準準拠、ストアドプロシージャやトリガー、カスタムデータ型の作成が可能です。",
+    "id": 69,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "PostgreSQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2025-01-25T11:16:03.510593Z",
+    "updated_at": "2025-01-25T11:16:03.510612Z",
+    "lead_time": 6.112
+  },
+  {
+    "text": "Microsoft SQL Serverの特徴はMicrosoftによって提供される商用RDBMSで、特にWindows環境で使用されることが多いです。強力なインターフェースとデータ分析ツールを提供しており、大企業で広く利用されています。用途は大規模な企業システム、ビジネスインテリジェンス（BI）、データウェアハウス、金融機関など。商用ライセンスが必要ですが、無償版のSQL Server Expressもあります。",
+    "id": 70,
+    "label": [
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Microsoft SQL Server",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2025-01-25T11:16:35.224630Z",
+    "updated_at": "2025-01-25T11:16:35.224656Z",
+    "lead_time": 9.497
+  },
+  {
+    "text": "Oracle Databaseの特徴は世界で最も高機能で商用のリレーショナルデータベースです。高いスケーラビリティ、可用性、セキュリティ機能を提供します。大企業向けに設計されており、複雑なトランザクションや大量のデータを扱うシステムに最適です。用途は大企業の基幹システム、金融システム、製造業、ヘルスケア業界などの大規模なアプリケーション。商用ライセンスが必要で、非常に高価ですが、非常に強力な機能を持っています。",
+    "id": 71,
+    "label": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "Oracle Database",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2025-01-25T11:17:02.764619Z",
+    "updated_at": "2025-01-25T11:17:02.764644Z",
+    "lead_time": 5.176
+  },
+  {
+    "text": "SQLiteの特徴は非常に軽量で組み込み型のRDBMSです。サーバーレスで、単一のファイルにデータベース全体を格納できるため、アプリケーションに直接組み込んで使用することができます。用途はモバイルアプリケーション（iOSやAndroid）、デスクトップアプリケーション、組み込みシステム、少量のデータを扱う小規模なプロジェクト。完全にオープンソースであり、軽量であるため、非常に速く、簡単に導入できます。",
+    "id": 72,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "SQLite",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2025-01-25T11:17:24.156431Z",
+    "updated_at": "2025-01-25T11:17:24.156451Z",
+    "lead_time": 5.505
+  },
+  {
+    "text": "MariaDBの特徴はMySQLのフォーク（派生）で、MySQLと非常に高い互換性を持ちながら、さらに改良が加えられています。パフォーマンスやスケーラビリティが向上しており、オープンソースとして提供されています。用途はウェブアプリケーション、コンテンツ管理システム（WordPressなど）、データ分析システム。MySQLと非常に似ていますが、MySQLよりも新しい機能が追加されています。",
+    "id": 73,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "MariaDB",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 156,
+        "end": 161,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 172,
+        "end": 177,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-01-25T11:18:08.996931Z",
+    "updated_at": "2025-01-25T11:18:08.996952Z",
+    "lead_time": 26.13
+  },
+  {
+    "text": "これらのRDBMSはそれぞれ特徴があり、利用する目的や環境によって選択が異なります。例えば、商用環境での安定性やサポートが重要ならOracleやSQL Server、オープンソースでの手軽さや拡張性が重要ならMySQLやPostgreSQL、軽量で組み込み型のDBが必要ならSQLiteを選ぶといった感じです。",
+    "id": 74,
+    "label": [
+      {
+        "start": 104,
+        "end": 109,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 120,
+        "text": "PostgreSQL",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 143,
+        "text": "SQLite",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2025-01-25T11:18:21.738309Z",
+    "updated_at": "2025-01-25T11:18:21.738326Z",
+    "lead_time": 11.391
+  }
+]

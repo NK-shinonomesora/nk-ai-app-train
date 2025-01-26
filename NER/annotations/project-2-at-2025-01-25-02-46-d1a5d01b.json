@@ -1,0 +1,338 @@
+[
+  {
+    "text": "C言語は、1970年代初めにデニス・リッチーによって開発されたプログラミング言語で、コンピュータのシステムソフトウェアやアプリケーションソフトウェアを開発するために広く使われています。シンプルでありながら強力な言語であり、効率的なメモリ管理や低レベルな操作が可能なため、オペレーティングシステムや組み込みシステムなどにも適しています。",
+    "id": 7,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "C言語",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-01-25T02:38:49.250097Z",
+    "updated_at": "2025-01-25T02:38:49.250125Z",
+    "lead_time": 30.234
+  },
+  {
+    "text": "C言語の特徴",
+    "id": 9,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "C言語",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-01-25T02:39:19.626343Z",
+    "updated_at": "2025-01-25T02:39:19.626386Z",
+    "lead_time": 5.201
+  },
+  {
+    "text": "C言語は、メモリやハードウェアのリソースに直接アクセスできるため、他の高級言語と比べて効率的に動作します。",
+    "id": 11,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "C言語",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-25T02:39:26.186077Z",
+    "updated_at": "2025-01-25T02:39:26.186096Z",
+    "lead_time": 4.189
+  },
+  {
+    "text": "C言語には、入出力処理や文字列操作、数学的処理などを簡単に行える標準ライブラリが用意されています。",
+    "id": 17,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "C言語",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-25T02:39:44.995637Z",
+    "updated_at": "2025-01-25T02:39:44.995662Z",
+    "lead_time": 3.323
+  },
+  {
+    "text": "Javaは、1990年代中盤にサン・マイクロシステムズ（後にオラクル社に買収）によって開発されたプログラミング言語です。Javaは「Write Once, Run Anywhere」（一度書けばどこでも動く）という理念を持ち、プラットフォームに依存せず、どこでも動作するアプリケーションを作ることができる特徴があります。",
+    "id": 22,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-25T02:39:51.891233Z",
+    "updated_at": "2025-01-25T02:40:00.840051Z",
+    "lead_time": 11.940999999999999
+  },
+  {
+    "text": "Javaの特徴",
+    "id": 24,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-25T02:40:05.429421Z",
+    "updated_at": "2025-01-25T02:40:05.429440Z",
+    "lead_time": 3.253
+  },
+  {
+    "text": "Javaで書かれたプログラムは、特別な処理をしなくても、どのプラットフォーム（Windows、Linux、Mac、Androidなど）でも動作します。これは、Javaがバイトコードという中間コードにコンパイルされ、それをJVM（Java Virtual Machine）が各プラットフォームで実行する仕組みだからです。",
+    "id": 26,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 118,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-25T02:40:28.382097Z",
+    "updated_at": "2025-01-25T02:40:28.382120Z",
+    "lead_time": 19.01
+  },
+  {
+    "text": "Javaはオブジェクト指向プログラミング（OOP）に基づいています。すべてがオブジェクトとして表現され、コードの再利用性やメンテナンス性が向上します。クラス、継承、ポリモーフィズム、カプセル化など、OOPの基本概念を活用できます。",
+    "id": 29,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-25T02:42:05.394961Z",
+    "updated_at": "2025-01-25T02:42:05.394981Z",
+    "lead_time": 5.601
+  },
+  {
+    "text": "Javaはメモリ管理が自動で行われるため、プログラマは手動でメモリを解放する必要がありません。ガーベジコレクションという仕組みで、使われていないメモリを自動的に回収します。",
+    "id": 32,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-25T02:42:15.378025Z",
+    "updated_at": "2025-01-25T02:42:15.378048Z",
+    "lead_time": 3.241
+  },
+  {
+    "text": "Javaは非常に多くの標準ライブラリ（API）を提供しており、データベース操作、ネットワーク通信、GUI開発、マルチスレッドなど、さまざまな機能を簡単に利用できます。",
+    "id": 35,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-01-25T02:42:25.295419Z",
+    "updated_at": "2025-01-25T02:42:30.362925Z",
+    "lead_time": 12.942
+  },
+  {
+    "text": "Javaは、ネットワーク越しに実行されるアプリケーションでもセキュリティを重視しており、サンドボックス機能やバイトコードの検証など、セキュアな環境で動作します。",
+    "id": 38,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "Java",
+        "labels": [
+          "programming"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-01-25T02:42:36.566693Z",
+    "updated_at": "2025-01-25T02:42:36.566713Z",
+    "lead_time": 3.636
+  },
+  {
+    "text": "MySQLは、人気のあるリレーショナルデータベース管理システム（RDBMS）の一つで、データベースの設計、管理、操作を行うためのソフトウェアです。特に、オープンソースであり、無料で使用できるため、個人や企業に広く利用されています。MySQLは、SQL（Structured Query Language）を使ってデータベースにアクセスし、操作を行います。",
+    "id": 40,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-25T02:41:39.106457Z",
+    "updated_at": "2025-01-25T02:43:06.700041Z",
+    "lead_time": 54.70700000000001
+  },
+  {
+    "text": "MySQLの特徴",
+    "id": 42,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-01-25T02:42:42.621805Z",
+    "updated_at": "2025-01-25T02:42:55.127032Z",
+    "lead_time": 10.557
+  },
+  {
+    "text": "MySQLはオープンソースソフトウェアであり、誰でも無償で使用、修正、配布ができます。商用版もありますが、一般的に無料で十分な機能を提供しています。",
+    "id": 44,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-01-25T02:43:12.658698Z",
+    "updated_at": "2025-01-25T02:43:12.658717Z",
+    "lead_time": 4.104
+  },
+  {
+    "text": "MySQLは、トランザクション処理のACID（Atomicity, Consistency, Isolation, Durability）特性に準拠しており、データの整合性を確保します。",
+    "id": 50,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2025-01-25T02:43:28.189506Z",
+    "updated_at": "2025-01-25T02:43:33.614704Z",
+    "lead_time": 8.953
+  },
+  {
+    "text": "MySQLは、Linux、Windows、macOSなど、さまざまなプラットフォームで動作します。",
+    "id": 56,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "MySQL",
+        "labels": [
+          "database"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2025-01-25T02:43:18.669385Z",
+    "updated_at": "2025-01-25T02:43:18.669418Z",
+    "lead_time": 3.094
+  }
+]
